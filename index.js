@@ -56,13 +56,5 @@ function deletaPost(idPost) {
     console.log('nao');
   }
 }
-// var select = document.getElementById("populaTabela")
-// const posts = fetch('https://jsonplaceholder.typicode.com/posts');
 
-// //.then é o que vai ser feito após a requisição for realizada.
-// posts.then((resposta) => resposta.json())
-// .then((objetoResposta) => {select.innerHTML = "<option value'0'>selecione...</option>";objetoResposta.forEach((elemento) => {
-   
-//    select.innerHTML += ("<option value="+elemento.id+" email='"+elemento.email+"' >"+elemento.name+"</option>");
-// })});
 
